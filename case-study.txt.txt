@@ -1,0 +1,9 @@
+Case Study: Phishing Attack
+
+Phishing is one of the most common cyber crimes, where hackers try to obtain sensitive information from a victim by pretending to be a trusted source. This usually occurs when a person receives an email or message from a trusted source, asking them to click on a link and verify their account information.
+
+In one instance, a student received a message saying that his or her account was going to be blocked if he or she did not update his or her information immediately. The message had a link that seemed to be from the bank’s official website. Without verifying, he or she entered his or her login credentials and OTP. Within a matter of minutes, money was withdrawn from his or her account without his or her knowledge.
+
+This happened because the attacker had created a fake website that looked exactly the same as the original website. The victim had been tricked into believing the message because of the sense of urgency it carried.
+
+This case demonstrates the need to be careful while surfing the internet. A person should be aware of the source of the message and should not click on the links. This would have helped to prevent the crime.
