@@ -16,7 +16,7 @@ This project focuses on developing digital literacy skills required in today’s
 ##  Project Structure
 
 - report/ → Final project report (PDF)
-- task-1-presentation/ → Infographic / PPT slides
+- task-1-presentation/ → Infographic 
 - task-2-portfolio/ → Screenshots of GitHub, LinkedIn, Kaggle profiles
 - task-3-platforms/ → Coding problem screenshot + Google Form responses
 - task-4-email-etiquette/ → Professional emails + social media checklist
